@@ -141,7 +141,3 @@ query = '(LeapScholar OR "Leap Scholar") -is:retweet lang:en'
 This project is for educational and academic purposes only.
 
 ---
-
-## 🙋‍♀️ Contact
-
-Created by [Your Name] — if you have any questions or suggestions, feel free to reach out!
