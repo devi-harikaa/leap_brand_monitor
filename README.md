@@ -136,6 +136,14 @@ query = '(LeapScholar OR "Leap Scholar") -is:retweet lang:en'
 
 ---
 
+## 🚀 Screenshots
+
+<img width="610" height="145" alt="Screenshot 2025-08-08 142059" src="https://github.com/user-attachments/assets/43b04d9f-3d51-42e8-bebe-e8c295c35e43" />
+<img width="1908" height="355" alt="Screenshot 2025-08-08 142045" src="https://github.com/user-attachments/assets/b1e0bee1-1ab0-4953-adb5-bbf931c7da65" />
+<img width="1919" height="679" alt="Screenshot 2025-08-08 142022" src="https://github.com/user-attachments/assets/d11a7d3a-78f8-413e-8524-19e73da60392" />
+
+---
+
 ## 📃 License
 
 This project is for educational and academic purposes only.
